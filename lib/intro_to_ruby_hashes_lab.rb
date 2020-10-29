@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-    {key: i}
+    {key: "value"}
 end
 
 def pioneer
